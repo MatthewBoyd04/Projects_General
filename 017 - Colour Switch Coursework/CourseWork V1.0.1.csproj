@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E367847B-D0E3-44D7-AE16-11ADF822F7B8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CourseWork_V1._0._1</RootNamespace>
+    <AssemblyName>CourseWork V1.0.1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Game Controller.cs" />
+    <Compile Include="Level Create.cs" />
+    <Compile Include="LevelCompleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelCompleteForm.Designer.cs">
+      <DependentUpon>LevelCompleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelForm.Designer.cs">
+      <DependentUpon>LevelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapScreen.Designer.cs">
+      <DependentUpon>MapScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhysicsEngine.cs" />
+    <Compile Include="PlayerController.cs" />
+    <Compile Include="Program.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="LevelCompleteForm.resx">
+      <DependentUpon>LevelCompleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelForm.resx">
+      <DependentUpon>LevelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapScreen.resx">
+      <DependentUpon>MapScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Program.resx">
+      <DependentUpon>Program.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Eclipse Specialist 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Flag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue_Switch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Death_Block.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green_Ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green_Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green_Switch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenFlag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neutral_Flag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neutral_Ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange_Flag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange_Ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange_Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange_Switch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Placeholder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Flag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Ground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Switch.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
