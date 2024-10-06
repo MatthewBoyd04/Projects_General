@@ -1,0 +1,96 @@
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.exe.config
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork_V1._0._1.Program.resources
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+C:\Users\chunk\Documents\School tings\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.exe.config
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\bin\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork_V1._0._1.Program.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\CourseWork V1.0.1\obj\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Level1.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Level1.resources
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
+H:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Level1.resources
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+E:\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Level1.resources
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\CS Coursework BACKUPS\USB Shite\Coursework V1.2\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csprojAssemblyReference.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+C:\Users\chunk\Desktop\School Work\Year 13\Computer Science\Coursework\NEW\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe.config
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.exe
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\bin\Debug\CourseWork V1.0.1.pdb
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.AssemblyReference.cache
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.SuggestedBindingRedirects.cache
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelCompleteForm.resources
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.LevelForm.resources
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.MapScreen.resources
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Program.resources
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork_V1._0._1.Properties.Resources.resources
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.GenerateResource.cache
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.csproj.CoreCompileInputs.cache
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.exe
+F:\School\Games\CourseWork_V1.0.1_-_Copy\CourseWork V1.0.1 - Copy\obj\Debug\CourseWork V1.0.1.pdb
