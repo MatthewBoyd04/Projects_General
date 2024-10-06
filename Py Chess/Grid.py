@@ -1,17 +1,15 @@
 #----------Header----------
-# Project: Chess
+# Project: Grid
 # Class: Main
 # Creation Date: 06/10/2024
 # Last Update: 06/10/24
 # Author: Matthew Boyd
 # Language: Python
 #--------------------------
-from graphics import *
-import time
 
-winHeight = 800
-winWidth = 800
-win = GraphWin("Chess", winWidth, winHeight)
+from graphics import * 
 
-win.getMouse()
-win.close()
+class GameBoard: 
+    def __init__ (self, win):
+        self.window = win 
+        self.Border = 100 
