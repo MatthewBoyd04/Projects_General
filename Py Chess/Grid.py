@@ -25,7 +25,7 @@ class GameBoard:
         BorderBottom = BorderDefault
 
         xSquares = 8
-        ySquares = 16 
+        ySquares = 8
 
         GridColor1 = "#fbf5de" #Light
         GridColor2 = "#f8e7bb" #Dark
