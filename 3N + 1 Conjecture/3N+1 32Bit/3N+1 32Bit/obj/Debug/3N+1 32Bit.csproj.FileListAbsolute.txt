@@ -1,0 +1,8 @@
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\bin\Debug\3N+1 32Bit.exe.config
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\bin\Debug\3N+1 32Bit.exe
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\bin\Debug\3N+1 32Bit.pdb
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\obj\Debug\3N+1 32Bit.csproj.AssemblyReference.cache
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\obj\Debug\3N+1 32Bit.csproj.SuggestedBindingRedirects.cache
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\obj\Debug\3N+1 32Bit.csproj.CoreCompileInputs.cache
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\obj\Debug\3N+1 32Bit.exe
+F:\Personal\Problem Solving\3N + 1 Problem\3N+1 32Bit\3N+1 32Bit\obj\Debug\3N+1 32Bit.pdb
