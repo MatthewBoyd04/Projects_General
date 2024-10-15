@@ -1,0 +1,17 @@
++-------------------------------------------------------------------------+
+|                                                                         |
+|	Rules + How To Play:                                              |
+|                                                                         |
+|	Basics:                                                           |
+|	There is a code made up of a set number of numbers, the length of |
+|     the code is user defined by the difficulty                        |
+|	The goal is to get the sequence of colours in the correct order   |
+|                                                                         |
+|	How to Play:                                                      |
+|	first of all you will guess the first code (the program will tell |
+|	you which colours are available to be chosen from), after that    |
+|	you'll be told how many colours are correct, and how many are in  |
+|	the correct position. you then guess again repeatedly until you   |
+|	Get the correct sequence and you win                              | 
+|                                                                         |
++-------------------------------------------------------------------------+

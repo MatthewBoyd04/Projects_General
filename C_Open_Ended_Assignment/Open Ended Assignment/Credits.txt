@@ -1,0 +1,8 @@
++-------------------------------------------------------------------------+
+|                                                                         |
+|	Game Coded by: Matthew Boyd                                       |
+|                                                                         |
+|	With insipration from the original mastermind game                |
+|	Created By: Mordecai Meirowitz                                    |
+|                                                                         |
++-------------------------------------------------------------------------+

@@ -8,10 +8,10 @@
 #--------------------------
 from graphics import *
 import time
+from Grid import GameBoard
 
-winHeight = 800
-winWidth = 800
-win = GraphWin("Chess", winWidth, winHeight)
 
-win.getMouse()
-win.close()
+gameboard = GameBoard()
+gameboard.window.getMouse()
+gameboard.window.close() 
+
