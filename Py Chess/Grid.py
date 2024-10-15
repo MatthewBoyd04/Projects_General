@@ -9,6 +9,8 @@
 
 from graphics import * 
 
+
+
 class GameBoard: 
     def __init__ (self):
         winHeight = 900
@@ -18,45 +20,52 @@ class GameBoard:
         self.drawBoard()
 
     def drawBoard(self): 
+        #----------------------Properties----------------------
         BorderDefault = 50
-        BorderTop = BorderDefault
-        BorderLeft = BorderDefault
-        BorderRight = 350
-        BorderBottom = BorderDefault
+        self.BorderTop = BorderDefault
+        self.BorderLeft = BorderDefault
+        self.BorderRight = 350
+        self.BorderBottom = BorderDefault
 
         xSquares = 8
         ySquares = 8
 
-        GridColor1 = "#fbf5de" #Light
-        GridColor2 = "#f8e7bb" #Dark
+        self.GridColor1 = "#fbf5de" #Light
+        self.GridColor2 = "#f8e7bb" #Dark
+        #----------------------Properties----------------------
+        
+        GridSizeX = self.window.width - (self.BorderLeft + self.BorderRight)
+        GridSizeY = self.window.height - (self.BorderTop + self.BorderBottom)
 
-        GridSizeX = self.window.width - (BorderLeft + BorderRight)
-        GridSizeY = self.window.height - (BorderTop + BorderBottom)
+        self.SquareSizeX = GridSizeX / xSquares
+        self.SquareSizeY = GridSizeY / ySquares
 
-        SquareSizeX = GridSizeX / xSquares
-        SquareSizeY = GridSizeY / ySquares
 
         for x in range(xSquares):
             for y in range(ySquares):
-                p1x = BorderLeft + (SquareSizeX * x)
-                p1y = BorderTop + (SquareSizeY * y)
-                p2x = BorderLeft + (SquareSizeX * (x + 1))
-                p2y = BorderTop + (SquareSizeY * (y + 1))
 
-                p1 = Point(p1x, p1y)
-                p2 = Point(p2x, p2y)
-
+                p1 = self.pointCalculator(x,y)
+                p2 = self.pointCalculator(x+1,y+1)
                 gridSquare = Rectangle(p1,p2)
 
-                if x % 2 == 0: 
-                    if y % 2 == 0:
-                        gridSquare.setFill(GridColor1)
-                    else:
-                        gridSquare.setFill(GridColor2)
-                if x % 2 == 1: 
-                    if y % 2 == 0:
-                        gridSquare.setFill(GridColor2)    
-                    else:         
-                        gridSquare.setFill(GridColor1)    
-                
+                gridSquare.setFill(self.determineSquareColor(x,y)) 
                 gridSquare.draw(self.window)
+
+    def pointCalculator(self,x,y):
+        xPoint = self.BorderLeft + (self.SquareSizeX * x)
+        yPoint = self.BorderTop + (self.SquareSizeY * y)
+        point = Point(xPoint, yPoint)
+        return point
+    
+    def determineSquareColor(self,x,y):
+        if x % 2 == 0: 
+            if y % 2 == 0:
+                color = self.GridColor1
+            else:
+                color = self.GridColor2
+        if x % 2 == 1: 
+            if y % 2 == 0:
+                color = self.GridColor2  
+            else:         
+                color = self.GridColor1  
+        return color
