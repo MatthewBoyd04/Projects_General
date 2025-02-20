@@ -6,7 +6,7 @@
 # Author: Matthew Boyd
 # Language: Python
 #--------------------------
-from graphics import *
+from graphics import * 
 import time
 from Grid import GameBoard
 
