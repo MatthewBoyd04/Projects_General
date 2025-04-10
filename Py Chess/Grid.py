@@ -8,27 +8,32 @@
 #--------------------------
 
 from graphics import * 
+from Config import *
 
 class GameBoard: 
     def __init__ (self):
-        winHeight = 900
-        winWidth = 1200
-        self.window = GraphWin("Chess", winWidth, winHeight)
-
         self.drawBoard()
 
     def drawBoard(self): 
-        BorderDefault = 50
-        BorderTop = BorderDefault
-        BorderLeft = BorderDefault
-        BorderRight = 350
-        BorderBottom = BorderDefault
+        gameConfig = GameConfig(GameType.DEFAULT)
+        userConfig = UserConfig(UserPreference.STYLE2, DisplayPreference._HD)
 
-        xSquares = 8
-        ySquares = 8
 
-        GridColor1 = "#fbf5de" #Light
-        GridColor2 = "#f8e7bb" #Dark
+        #Sort User Preferences
+        self.window = GraphWin("Chess", userConfig.winWidth, userConfig.winHeight)
+        BorderTop = userConfig.getBorderTop()
+        BorderLeft = userConfig.getBorderLeft()
+        BorderRight = userConfig.getBorderRight()
+        BorderBottom = userConfig.getBorderBottom()
+
+        GridColor1 = userConfig.getGridColorLight()
+        GridColor2 = userConfig.getGridColorDark()
+
+        #Set Game Preferences
+        xSquares = gameConfig.getSquares()
+        ySquares = gameConfig.getSquares()
+
+
 
         GridSizeX = self.window.width - (BorderLeft + BorderRight)
         GridSizeY = self.window.height - (BorderTop + BorderBottom)
@@ -60,3 +65,9 @@ class GameBoard:
                         gridSquare.setFill(GridColor1)    
                 
                 gridSquare.draw(self.window)
+
+
+if __name__ == "__main__":
+    gameboard = GameBoard()
+    gameboard.window.getMouse()
+    gameboard.window.close() 

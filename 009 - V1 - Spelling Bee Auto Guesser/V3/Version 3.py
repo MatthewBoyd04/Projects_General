@@ -19,7 +19,8 @@ def isWordBanned(word, banned_letters):
         invalid = True
     for letter in banned_letters:
         if letter in word:
-            print("Removed: ", word, " Containts ", letter)
+            
+            # print("Removed: ", word, " Containts ", letter)
             invalid = True
     if invalid == False:         
         with open("Temp_Dictionary.txt", 'a') as file:
